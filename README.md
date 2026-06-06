@@ -27,9 +27,9 @@ Telsiz duyarga ağındaki (WSN) cihazlara fiziksel erişim olmadan yazılım gü
 
 | Ekip Üyesi | 
 |---|---|
-| _Mehmet Akyürek_ | 
-| _Aslıhan Erturhan_ | 
-| _Ali Ellikci_ | 
+| Mehmet Akyürek | 
+| Aslıhan Erturhan | 
+| Ali Ellikci | 
 
 ---
 
