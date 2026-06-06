@@ -1,0 +1,496 @@
+00:01.493	ID:1	[INFO: Main      ] Starting Contiki-NG-release/v5.1-171-g6a35472a3-dirty
+00:01.495	ID:1	[INFO: Main      ] - Routing: RPL Lite
+00:01.498	ID:1	[INFO: Main      ] - Net: sicslowpan
+00:01.500	ID:1	[INFO: Main      ] - MAC: CSMA
+00:01.504	ID:1	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.507	ID:1	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.509	ID:1	[INFO: Main      ] Node ID: 1
+00:01.514	ID:1	[INFO: Main      ] Link-layer address: c10c.0000.0000.0001
+00:01.522	ID:1	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:1
+00:01.525	ID:1	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.530	ID:1	[INFO: App       ] OTA alici basladi (node 1, DAG root)
+00:01.535	ID:1	[INFO: App       ] Baslangic metadata: slot A=CONFIRMED, slot B=EMPTY
+00:01.799	ID:2	[INFO: Main      ] Starting Contiki-NG-release/v5.1-171-g6a35472a3-dirty
+00:01.802	ID:2	[INFO: Main      ] - Routing: RPL Lite
+00:01.804	ID:2	[INFO: Main      ] - Net: sicslowpan
+00:01.806	ID:2	[INFO: Main      ] - MAC: CSMA
+00:01.810	ID:2	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.813	ID:2	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.814	ID:3	[INFO: Main      ] Starting Contiki-NG-release/v5.1-171-g6a35472a3-dirty
+00:01.815	ID:2	[INFO: Main      ] Node ID: 2
+00:01.816	ID:3	[INFO: Main      ] - Routing: RPL Lite
+00:01.819	ID:3	[INFO: Main      ] - Net: sicslowpan
+00:01.820	ID:2	[INFO: Main      ] Link-layer address: c10c.0000.0000.0002
+00:01.821	ID:3	[INFO: Main      ] - MAC: CSMA
+00:01.824	ID:3	[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+00:01.828	ID:2	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:2
+00:01.828	ID:3	[INFO: Main      ] - 802.15.4 Default channel: 26
+00:01.830	ID:3	[INFO: Main      ] Node ID: 3
+00:01.831	ID:2	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.835	ID:3	[INFO: Main      ] Link-layer address: c10c.0000.0000.0003
+00:01.838	ID:2	[INFO: App       ] OTA gonderici hazirlaniyor: imaj=8192 bayt, blok=64, toplam=128 paket
+00:01.842	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:01.843	ID:3	[INFO: Main      ] Tentative link-local IPv6 address: fe80::c30c:0:0:3
+00:01.846	ID:3	[INFO: Z1        ] CC2420 CCA threshold -45
+00:01.852	ID:3	[INFO: App       ] Bu cihaz (node 3) sender degil; sadece RPL aktarimina yardim eder
+00:02.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:03.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:04.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:05.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:06.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:07.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:08.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:09.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:10.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:11.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:12.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:13.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:14.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:15.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:16.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:17.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:18.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:19.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:20.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:21.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:22.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:23.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:24.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:25.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:26.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:27.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:28.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:29.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:30.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:31.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:32.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:33.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:34.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:35.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:36.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:37.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:38.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:39.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:40.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:41.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:42.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:43.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:44.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:45.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:46.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:47.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:48.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:49.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:50.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:51.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:52.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:53.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:54.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:55.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:56.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:57.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:58.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+00:59.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:00.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:01.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:02.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:03.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:04.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:05.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:06.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:07.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:08.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:09.841	ID:2	[INFO: App       ] RPL agi hazir degil, bekleniyor...
+01:10.842	ID:2	[INFO: App       ] Alici (root) bulundu: fd00::c30c:0:0:1
+01:10.848	ID:2	[INFO: App       ] DATA gonderiliyor: blok 0/128 (deneme 1)
+01:10.888	ID:1	[INFO: App       ] Aktarim baslangici: toplam 128 blok bekleniyor
+01:10.894	ID:1	[INFO: App       ] DATA kabul: blok 0/128 (64 bayt) toplam=64
+01:10.953	ID:2	[INFO: App       ] ACK alindi: blok 0
+01:10.959	ID:2	[INFO: App       ] DATA gonderiliyor: blok 1/128 (deneme 1)
+01:11.023	ID:1	[INFO: App       ] DATA kabul: blok 1/128 (64 bayt) toplam=128
+01:11.069	ID:2	[INFO: App       ] ACK alindi: blok 1
+01:11.075	ID:2	[INFO: App       ] DATA gonderiliyor: blok 2/128 (deneme 1)
+01:11.103	ID:1	[INFO: App       ] DATA kabul: blok 2/128 (64 bayt) toplam=192
+01:11.218	ID:2	[INFO: App       ] ACK alindi: blok 2
+01:11.223	ID:2	[INFO: App       ] DATA gonderiliyor: blok 3/128 (deneme 1)
+01:11.275	ID:1	[INFO: App       ] DATA kabul: blok 3/128 (64 bayt) toplam=256
+01:11.327	ID:2	[INFO: App       ] ACK alindi: blok 3
+01:11.333	ID:2	[INFO: App       ] DATA gonderiliyor: blok 4/128 (deneme 1)
+01:11.390	ID:1	[INFO: App       ] DATA kabul: blok 4/128 (64 bayt) toplam=320
+01:11.507	ID:2	[INFO: App       ] ACK alindi: blok 4
+01:11.512	ID:2	[INFO: App       ] DATA gonderiliyor: blok 5/128 (deneme 1)
+01:11.579	ID:1	[INFO: App       ] DATA kabul: blok 5/128 (64 bayt) toplam=384
+01:11.610	ID:2	[INFO: App       ] ACK alindi: blok 5
+01:11.615	ID:2	[INFO: App       ] DATA gonderiliyor: blok 6/128 (deneme 1)
+01:11.687	ID:1	[INFO: App       ] DATA kabul: blok 6/128 (64 bayt) toplam=448
+01:11.727	ID:2	[INFO: App       ] ACK alindi: blok 6
+01:11.732	ID:2	[INFO: App       ] DATA gonderiliyor: blok 7/128 (deneme 1)
+01:11.780	ID:1	[INFO: App       ] DATA kabul: blok 7/128 (64 bayt) toplam=512
+01:11.875	ID:2	[INFO: App       ] ACK alindi: blok 7
+01:11.881	ID:2	[INFO: App       ] DATA gonderiliyor: blok 8/128 (deneme 1)
+01:11.921	ID:1	[INFO: App       ] DATA kabul: blok 8/128 (64 bayt) toplam=576
+01:12.007	ID:2	[INFO: App       ] ACK alindi: blok 8
+01:12.012	ID:2	[INFO: App       ] DATA gonderiliyor: blok 9/128 (deneme 1)
+01:12.054	ID:1	[INFO: App       ] DATA kabul: blok 9/128 (64 bayt) toplam=640
+01:12.116	ID:2	[INFO: App       ] ACK alindi: blok 9
+01:12.122	ID:2	[INFO: App       ] DATA gonderiliyor: blok 10/128 (deneme 1)
+01:12.179	ID:1	[INFO: App       ] DATA kabul: blok 10/128 (64 bayt) toplam=704
+01:12.265	ID:2	[INFO: App       ] ACK alindi: blok 10
+01:12.270	ID:2	[INFO: App       ] DATA gonderiliyor: blok 11/128 (deneme 1)
+01:12.320	ID:1	[INFO: App       ] DATA kabul: blok 11/128 (64 bayt) toplam=768
+01:12.421	ID:2	[INFO: App       ] ACK alindi: blok 11
+01:12.427	ID:2	[INFO: App       ] DATA gonderiliyor: blok 12/128 (deneme 1)
+01:12.468	ID:1	[INFO: App       ] DATA kabul: blok 12/128 (64 bayt) toplam=832
+01:12.585	ID:2	[INFO: App       ] ACK alindi: blok 12
+01:12.591	ID:2	[INFO: App       ] DATA gonderiliyor: blok 13/128 (deneme 1)
+01:12.671	ID:1	[INFO: App       ] DATA kabul: blok 13/128 (64 bayt) toplam=896
+01:12.711	ID:2	[INFO: App       ] ACK alindi: blok 13
+01:12.717	ID:2	[INFO: App       ] DATA gonderiliyor: blok 14/128 (deneme 1)
+01:12.781	ID:1	[INFO: App       ] DATA kabul: blok 14/128 (64 bayt) toplam=960
+01:12.829	ID:2	[INFO: App       ] ACK alindi: blok 14
+01:12.834	ID:2	[INFO: App       ] DATA gonderiliyor: blok 15/128 (deneme 1)
+01:12.906	ID:1	[INFO: App       ] DATA kabul: blok 15/128 (64 bayt) toplam=1024
+01:12.999	ID:2	[INFO: App       ] ACK alindi: blok 15
+01:13.005	ID:2	[INFO: App       ] DATA gonderiliyor: blok 16/128 (deneme 1)
+01:13.054	ID:1	[INFO: App       ] DATA kabul: blok 16/128 (64 bayt) toplam=1088
+01:13.132	ID:2	[INFO: App       ] ACK alindi: blok 16
+01:13.137	ID:2	[INFO: App       ] DATA gonderiliyor: blok 17/128 (deneme 1)
+01:13.171	ID:1	[INFO: App       ] DATA kabul: blok 17/128 (64 bayt) toplam=1152
+01:13.265	ID:2	[INFO: App       ] ACK alindi: blok 17
+01:13.270	ID:2	[INFO: App       ] DATA gonderiliyor: blok 18/128 (deneme 1)
+01:13.328	ID:1	[INFO: App       ] DATA kabul: blok 18/128 (64 bayt) toplam=1216
+01:13.437	ID:2	[INFO: App       ] ACK alindi: blok 18
+01:13.442	ID:2	[INFO: App       ] DATA gonderiliyor: blok 19/128 (deneme 1)
+01:13.499	ID:1	[INFO: App       ] DATA kabul: blok 19/128 (64 bayt) toplam=1280
+01:13.579	ID:2	[INFO: App       ] ACK alindi: blok 19
+01:13.584	ID:2	[INFO: App       ] DATA gonderiliyor: blok 20/128 (deneme 1)
+01:13.664	ID:1	[INFO: App       ] DATA kabul: blok 20/128 (64 bayt) toplam=1344
+01:13.735	ID:2	[INFO: App       ] ACK alindi: blok 20
+01:13.740	ID:2	[INFO: App       ] DATA gonderiliyor: blok 21/128 (deneme 1)
+01:13.791	ID:1	[INFO: App       ] DATA kabul: blok 21/128 (64 bayt) toplam=1408
+01:13.860	ID:2	[INFO: App       ] ACK alindi: blok 21
+01:13.865	ID:2	[INFO: App       ] DATA gonderiliyor: blok 22/128 (deneme 1)
+01:13.931	ID:1	[INFO: App       ] DATA kabul: blok 22/128 (64 bayt) toplam=1472
+01:14.030	ID:2	[INFO: App       ] ACK alindi: blok 22
+01:14.036	ID:2	[INFO: App       ] DATA gonderiliyor: blok 23/128 (deneme 1)
+01:14.121	ID:1	[INFO: App       ] DATA kabul: blok 23/128 (64 bayt) toplam=1536
+01:14.249	ID:2	[INFO: App       ] ACK alindi: blok 23
+01:14.255	ID:2	[INFO: App       ] DATA gonderiliyor: blok 24/128 (deneme 1)
+01:14.281	ID:1	[INFO: App       ] DATA kabul: blok 24/128 (64 bayt) toplam=1600
+01:14.338	ID:2	[INFO: App       ] ACK alindi: blok 24
+01:14.344	ID:2	[INFO: App       ] DATA gonderiliyor: blok 25/128 (deneme 1)
+01:14.374	ID:1	[INFO: App       ] DATA kabul: blok 25/128 (64 bayt) toplam=1664
+01:14.455	ID:2	[INFO: App       ] ACK alindi: blok 25
+01:14.461	ID:2	[INFO: App       ] DATA gonderiliyor: blok 26/128 (deneme 1)
+01:14.507	ID:1	[INFO: App       ] DATA kabul: blok 26/128 (64 bayt) toplam=1728
+01:14.569	ID:2	[INFO: App       ] ACK alindi: blok 26
+01:14.575	ID:2	[INFO: App       ] DATA gonderiliyor: blok 27/128 (deneme 1)
+01:14.632	ID:1	[INFO: App       ] DATA kabul: blok 27/128 (64 bayt) toplam=1792
+01:14.679	ID:2	[INFO: App       ] ACK alindi: blok 27
+01:14.684	ID:2	[INFO: App       ] DATA gonderiliyor: blok 28/128 (deneme 1)
+01:14.765	ID:1	[INFO: App       ] DATA kabul: blok 28/128 (64 bayt) toplam=1856
+01:14.846	ID:2	[INFO: App       ] ACK alindi: blok 28
+01:14.851	ID:2	[INFO: App       ] DATA gonderiliyor: blok 29/128 (deneme 1)
+01:14.945	ID:1	[INFO: App       ] DATA kabul: blok 29/128 (64 bayt) toplam=1920
+01:14.991	ID:2	[INFO: App       ] ACK alindi: blok 29
+01:14.997	ID:2	[INFO: App       ] DATA gonderiliyor: blok 30/128 (deneme 1)
+01:15.093	ID:1	[INFO: App       ] DATA kabul: blok 30/128 (64 bayt) toplam=1984
+01:15.187	ID:2	[INFO: App       ] ACK alindi: blok 30
+01:15.192	ID:2	[INFO: App       ] DATA gonderiliyor: blok 31/128 (deneme 1)
+01:15.289	ID:1	[INFO: App       ] DATA kabul: blok 31/128 (64 bayt) toplam=2048
+01:15.397	ID:2	[INFO: App       ] ACK alindi: blok 31
+01:15.403	ID:2	[INFO: App       ] DATA gonderiliyor: blok 32/128 (deneme 1)
+01:15.453	ID:1	[INFO: App       ] DATA kabul: blok 32/128 (64 bayt) toplam=2112
+01:15.562	ID:2	[INFO: App       ] ACK alindi: blok 32
+01:15.567	ID:2	[INFO: App       ] DATA gonderiliyor: blok 33/128 (deneme 1)
+01:15.632	ID:1	[INFO: App       ] DATA kabul: blok 33/128 (64 bayt) toplam=2176
+01:15.721	ID:2	[INFO: App       ] ACK alindi: blok 33
+01:15.727	ID:2	[INFO: App       ] DATA gonderiliyor: blok 34/128 (deneme 1)
+01:15.789	ID:1	[INFO: App       ] DATA kabul: blok 34/128 (64 bayt) toplam=2240
+01:15.838	ID:2	[INFO: App       ] ACK alindi: blok 34
+01:15.844	ID:2	[INFO: App       ] DATA gonderiliyor: blok 35/128 (deneme 1)
+01:15.945	ID:1	[INFO: App       ] DATA kabul: blok 35/128 (64 bayt) toplam=2304
+01:16.018	ID:2	[INFO: App       ] ACK alindi: blok 35
+01:16.023	ID:2	[INFO: App       ] DATA gonderiliyor: blok 36/128 (deneme 1)
+01:16.064	ID:1	[INFO: App       ] DATA kabul: blok 36/128 (64 bayt) toplam=2368
+01:16.108	ID:2	[INFO: App       ] ACK alindi: blok 36
+01:16.114	ID:2	[INFO: App       ] DATA gonderiliyor: blok 37/128 (deneme 1)
+01:16.195	ID:1	[INFO: App       ] DATA kabul: blok 37/128 (64 bayt) toplam=2432
+01:16.312	ID:2	[INFO: App       ] ACK alindi: blok 37
+01:16.317	ID:2	[INFO: App       ] DATA gonderiliyor: blok 38/128 (deneme 1)
+01:16.421	ID:1	[INFO: App       ] DATA kabul: blok 38/128 (64 bayt) toplam=2496
+01:16.487	ID:2	[INFO: App       ] ACK alindi: blok 38
+01:16.492	ID:2	[INFO: App       ] DATA gonderiliyor: blok 39/128 (deneme 1)
+01:16.562	ID:1	[INFO: App       ] DATA kabul: blok 39/128 (64 bayt) toplam=2560
+01:16.666	ID:2	[INFO: App       ] ACK alindi: blok 39
+01:16.672	ID:2	[INFO: App       ] DATA gonderiliyor: blok 40/128 (deneme 1)
+01:16.742	ID:1	[INFO: App       ] DATA kabul: blok 40/128 (64 bayt) toplam=2624
+01:16.835	ID:2	[INFO: App       ] ACK alindi: blok 40
+01:16.841	ID:2	[INFO: App       ] DATA gonderiliyor: blok 41/128 (deneme 1)
+01:16.921	ID:1	[INFO: App       ] DATA kabul: blok 41/128 (64 bayt) toplam=2688
+01:16.987	ID:2	[INFO: App       ] ACK alindi: blok 41
+01:16.992	ID:2	[INFO: App       ] DATA gonderiliyor: blok 42/128 (deneme 1)
+01:17.093	ID:1	[INFO: App       ] DATA kabul: blok 42/128 (64 bayt) toplam=2752
+01:17.158	ID:2	[INFO: App       ] ACK alindi: blok 42
+01:17.164	ID:2	[INFO: App       ] DATA gonderiliyor: blok 43/128 (deneme 1)
+01:17.242	ID:1	[INFO: App       ] DATA kabul: blok 43/128 (64 bayt) toplam=2816
+01:17.283	ID:2	[INFO: App       ] ACK alindi: blok 43
+01:17.289	ID:2	[INFO: App       ] DATA gonderiliyor: blok 44/128 (deneme 1)
+01:17.374	ID:1	[INFO: App       ] DATA kabul: blok 44/128 (64 bayt) toplam=2880
+01:17.460	ID:2	[INFO: App       ] ACK alindi: blok 44
+01:17.466	ID:2	[INFO: App       ] DATA gonderiliyor: blok 45/128 (deneme 1)
+01:17.546	ID:1	[INFO: App       ] DATA kabul: blok 45/128 (64 bayt) toplam=2944
+01:17.647	ID:2	[INFO: App       ] ACK alindi: blok 45
+01:17.653	ID:2	[INFO: App       ] DATA gonderiliyor: blok 46/128 (deneme 1)
+01:17.695	ID:1	[INFO: App       ] DATA kabul: blok 46/128 (64 bayt) toplam=3008
+01:17.791	ID:2	[INFO: App       ] ACK alindi: blok 46
+01:17.797	ID:2	[INFO: App       ] DATA gonderiliyor: blok 47/128 (deneme 1)
+01:17.874	ID:1	[INFO: App       ] DATA kabul: blok 47/128 (64 bayt) toplam=3072
+01:17.979	ID:2	[INFO: App       ] ACK alindi: blok 47
+01:17.984	ID:2	[INFO: App       ] DATA gonderiliyor: blok 48/128 (deneme 1)
+01:18.046	ID:1	[INFO: App       ] DATA kabul: blok 48/128 (64 bayt) toplam=3136
+01:18.155	ID:2	[INFO: App       ] ACK alindi: blok 48
+01:18.161	ID:2	[INFO: App       ] DATA gonderiliyor: blok 49/128 (deneme 1)
+01:18.226	ID:1	[INFO: App       ] DATA kabul: blok 49/128 (64 bayt) toplam=3200
+01:18.307	ID:2	[INFO: App       ] ACK alindi: blok 49
+01:18.312	ID:2	[INFO: App       ] DATA gonderiliyor: blok 50/128 (deneme 1)
+01:18.421	ID:1	[INFO: App       ] DATA kabul: blok 50/128 (64 bayt) toplam=3264
+01:18.554	ID:2	[INFO: App       ] ACK alindi: blok 50
+01:18.559	ID:2	[INFO: App       ] DATA gonderiliyor: blok 51/128 (deneme 1)
+01:18.603	ID:1	[INFO: App       ] DATA kabul: blok 51/128 (64 bayt) toplam=3328
+01:18.718	ID:2	[INFO: App       ] ACK alindi: blok 51
+01:18.723	ID:2	[INFO: App       ] DATA gonderiliyor: blok 52/128 (deneme 1)
+01:18.757	ID:1	[INFO: App       ] DATA kabul: blok 52/128 (64 bayt) toplam=3392
+01:18.799	ID:2	[INFO: App       ] ACK alindi: blok 52
+01:18.805	ID:2	[INFO: App       ] DATA gonderiliyor: blok 53/128 (deneme 1)
+01:18.867	ID:1	[INFO: App       ] DATA kabul: blok 53/128 (64 bayt) toplam=3456
+01:18.976	ID:2	[INFO: App       ] ACK alindi: blok 53
+01:18.981	ID:2	[INFO: App       ] DATA gonderiliyor: blok 54/128 (deneme 1)
+01:19.046	ID:1	[INFO: App       ] DATA kabul: blok 54/128 (64 bayt) toplam=3520
+01:19.116	ID:2	[INFO: App       ] ACK alindi: blok 54
+01:19.122	ID:2	[INFO: App       ] DATA gonderiliyor: blok 55/128 (deneme 1)
+01:19.203	ID:1	[INFO: App       ] DATA kabul: blok 55/128 (64 bayt) toplam=3584
+01:19.272	ID:2	[INFO: App       ] ACK alindi: blok 55
+01:19.278	ID:2	[INFO: App       ] DATA gonderiliyor: blok 56/128 (deneme 1)
+01:19.367	ID:1	[INFO: App       ] DATA kabul: blok 56/128 (64 bayt) toplam=3648
+01:19.444	ID:2	[INFO: App       ] ACK alindi: blok 56
+01:19.450	ID:2	[INFO: App       ] DATA gonderiliyor: blok 57/128 (deneme 1)
+01:19.476	ID:1	[INFO: App       ] DATA kabul: blok 57/128 (64 bayt) toplam=3712
+01:19.565	ID:2	[INFO: App       ] ACK alindi: blok 57
+01:19.570	ID:2	[INFO: App       ] DATA gonderiliyor: blok 58/128 (deneme 1)
+01:19.632	ID:1	[INFO: App       ] DATA kabul: blok 58/128 (64 bayt) toplam=3776
+01:19.705	ID:2	[INFO: App       ] ACK alindi: blok 58
+01:19.711	ID:2	[INFO: App       ] DATA gonderiliyor: blok 59/128 (deneme 1)
+01:19.828	ID:1	[INFO: App       ] DATA kabul: blok 59/128 (64 bayt) toplam=3840
+01:19.897	ID:2	[INFO: App       ] ACK alindi: blok 59
+01:19.903	ID:2	[INFO: App       ] DATA gonderiliyor: blok 60/128 (deneme 1)
+01:19.947	ID:1	[INFO: App       ] DATA kabul: blok 60/128 (64 bayt) toplam=3904
+01:20.018	ID:2	[INFO: App       ] ACK alindi: blok 60
+01:20.023	ID:2	[INFO: App       ] DATA gonderiliyor: blok 61/128 (deneme 1)
+01:20.062	ID:1	[INFO: App       ] DATA kabul: blok 61/128 (64 bayt) toplam=3968
+01:20.163	ID:2	[INFO: App       ] ACK alindi: blok 61
+01:20.169	ID:2	[INFO: App       ] DATA gonderiliyor: blok 62/128 (deneme 1)
+01:20.218	ID:1	[INFO: App       ] DATA kabul: blok 62/128 (64 bayt) toplam=4032
+01:20.312	ID:2	[INFO: App       ] ACK alindi: blok 62
+01:20.317	ID:2	[INFO: App       ] DATA gonderiliyor: blok 63/128 (deneme 1)
+01:20.351	ID:1	[INFO: App       ] DATA kabul: blok 63/128 (64 bayt) toplam=4096
+01:20.460	ID:2	[INFO: App       ] ACK alindi: blok 63
+01:20.466	ID:2	[INFO: App       ] DATA gonderiliyor: blok 64/128 (deneme 1)
+01:20.554	ID:1	[INFO: App       ] DATA kabul: blok 64/128 (64 bayt) toplam=4160
+01:20.632	ID:2	[INFO: App       ] ACK alindi: blok 64
+01:20.637	ID:2	[INFO: App       ] DATA gonderiliyor: blok 65/128 (deneme 1)
+01:20.679	ID:1	[INFO: App       ] DATA kabul: blok 65/128 (64 bayt) toplam=4224
+01:20.733	ID:2	[INFO: App       ] ACK alindi: blok 65
+01:20.739	ID:2	[INFO: App       ] DATA gonderiliyor: blok 66/128 (deneme 1)
+01:20.835	ID:1	[INFO: App       ] DATA kabul: blok 66/128 (64 bayt) toplam=4288
+01:20.960	ID:2	[INFO: App       ] ACK alindi: blok 66
+01:20.966	ID:2	[INFO: App       ] DATA gonderiliyor: blok 67/128 (deneme 1)
+01:21.046	ID:1	[INFO: App       ] DATA kabul: blok 67/128 (64 bayt) toplam=4352
+01:21.132	ID:2	[INFO: App       ] ACK alindi: blok 67
+01:21.137	ID:2	[INFO: App       ] DATA gonderiliyor: blok 68/128 (deneme 1)
+01:21.218	ID:1	[INFO: App       ] DATA kabul: blok 68/128 (64 bayt) toplam=4416
+01:21.296	ID:2	[INFO: App       ] ACK alindi: blok 68
+01:21.302	ID:2	[INFO: App       ] DATA gonderiliyor: blok 69/128 (deneme 1)
+01:21.359	ID:1	[INFO: App       ] DATA kabul: blok 69/128 (64 bayt) toplam=4480
+01:21.444	ID:2	[INFO: App       ] ACK alindi: blok 69
+01:21.450	ID:2	[INFO: App       ] DATA gonderiliyor: blok 70/128 (deneme 1)
+01:21.523	ID:1	[INFO: App       ] DATA kabul: blok 70/128 (64 bayt) toplam=4544
+01:21.655	ID:2	[INFO: App       ] ACK alindi: blok 70
+01:21.661	ID:2	[INFO: App       ] DATA gonderiliyor: blok 71/128 (deneme 1)
+01:21.749	ID:1	[INFO: App       ] DATA kabul: blok 71/128 (64 bayt) toplam=4608
+01:21.819	ID:2	[INFO: App       ] ACK alindi: blok 71
+01:21.825	ID:2	[INFO: App       ] DATA gonderiliyor: blok 72/128 (deneme 1)
+01:21.929	ID:1	[INFO: App       ] DATA kabul: blok 72/128 (64 bayt) toplam=4672
+01:22.054	ID:2	[INFO: App       ] ACK alindi: blok 72
+01:22.059	ID:2	[INFO: App       ] DATA gonderiliyor: blok 73/128 (deneme 1)
+01:22.132	ID:1	[INFO: App       ] DATA kabul: blok 73/128 (64 bayt) toplam=4736
+01:22.194	ID:2	[INFO: App       ] ACK alindi: blok 73
+01:22.200	ID:2	[INFO: App       ] DATA gonderiliyor: blok 74/128 (deneme 1)
+01:22.257	ID:1	[INFO: App       ] DATA kabul: blok 74/128 (64 bayt) toplam=4800
+01:22.374	ID:2	[INFO: App       ] ACK alindi: blok 74
+01:22.380	ID:2	[INFO: App       ] DATA gonderiliyor: blok 75/128 (deneme 1)
+01:22.460	ID:1	[INFO: App       ] DATA kabul: blok 75/128 (64 bayt) toplam=4864
+01:22.530	ID:2	[INFO: App       ] ACK alindi: blok 75
+01:22.536	ID:2	[INFO: App       ] DATA gonderiliyor: blok 76/128 (deneme 1)
+01:22.593	ID:1	[INFO: App       ] DATA kabul: blok 76/128 (64 bayt) toplam=4928
+01:22.640	ID:2	[INFO: App       ] ACK alindi: blok 76
+01:22.645	ID:2	[INFO: App       ] DATA gonderiliyor: blok 77/128 (deneme 1)
+01:22.710	ID:1	[INFO: App       ] DATA kabul: blok 77/128 (64 bayt) toplam=4992
+01:22.827	ID:2	[INFO: App       ] ACK alindi: blok 77
+01:22.833	ID:2	[INFO: App       ] DATA gonderiliyor: blok 78/128 (deneme 1)
+01:22.859	ID:1	[INFO: App       ] DATA kabul: blok 78/128 (64 bayt) toplam=5056
+01:22.944	ID:2	[INFO: App       ] ACK alindi: blok 78
+01:22.950	ID:2	[INFO: App       ] DATA gonderiliyor: blok 79/128 (deneme 1)
+01:23.007	ID:1	[INFO: App       ] DATA kabul: blok 79/128 (64 bayt) toplam=5120
+01:23.065	ID:2	[INFO: App       ] ACK alindi: blok 79
+01:23.070	ID:2	[INFO: App       ] DATA gonderiliyor: blok 80/128 (deneme 1)
+01:23.179	ID:1	[INFO: App       ] DATA kabul: blok 80/128 (64 bayt) toplam=5184
+01:23.288	ID:2	[INFO: App       ] ACK alindi: blok 80
+01:23.294	ID:2	[INFO: App       ] DATA gonderiliyor: blok 81/128 (deneme 1)
+01:23.374	ID:1	[INFO: App       ] DATA kabul: blok 81/128 (64 bayt) toplam=5248
+01:23.455	ID:2	[INFO: App       ] ACK alindi: blok 81
+01:23.461	ID:2	[INFO: App       ] DATA gonderiliyor: blok 82/128 (deneme 1)
+01:23.515	ID:1	[INFO: App       ] DATA kabul: blok 82/128 (64 bayt) toplam=5312
+01:23.624	ID:2	[INFO: App       ] ACK alindi: blok 82
+01:23.630	ID:2	[INFO: App       ] DATA gonderiliyor: blok 83/128 (deneme 1)
+01:23.687	ID:1	[INFO: App       ] DATA kabul: blok 83/128 (64 bayt) toplam=5376
+01:23.729	ID:2	[INFO: App       ] ACK alindi: blok 83
+01:23.734	ID:2	[INFO: App       ] DATA gonderiliyor: blok 84/128 (deneme 1)
+01:23.806	ID:1	[INFO: App       ] DATA kabul: blok 84/128 (64 bayt) toplam=5440
+01:23.882	ID:2	[INFO: App       ] ACK alindi: blok 84
+01:23.887	ID:2	[INFO: App       ] DATA gonderiliyor: blok 85/128 (deneme 1)
+01:23.921	ID:1	[INFO: App       ] DATA kabul: blok 85/128 (64 bayt) toplam=5504
+01:24.010	ID:2	[INFO: App       ] ACK alindi: blok 85
+01:24.016	ID:2	[INFO: App       ] DATA gonderiliyor: blok 86/128 (deneme 1)
+01:24.078	ID:1	[INFO: App       ] DATA kabul: blok 86/128 (64 bayt) toplam=5568
+01:24.182	ID:2	[INFO: App       ] ACK alindi: blok 86
+01:24.187	ID:2	[INFO: App       ] DATA gonderiliyor: blok 87/128 (deneme 1)
+01:24.249	ID:1	[INFO: App       ] DATA kabul: blok 87/128 (64 bayt) toplam=5632
+01:24.327	ID:2	[INFO: App       ] ACK alindi: blok 87
+01:24.333	ID:2	[INFO: App       ] DATA gonderiliyor: blok 88/128 (deneme 1)
+01:24.376	ID:1	[INFO: App       ] DATA kabul: blok 88/128 (64 bayt) toplam=5696
+01:24.483	ID:2	[INFO: App       ] ACK alindi: blok 88
+01:24.489	ID:2	[INFO: App       ] DATA gonderiliyor: blok 89/128 (deneme 1)
+01:24.578	ID:1	[INFO: App       ] DATA kabul: blok 89/128 (64 bayt) toplam=5760
+01:24.647	ID:2	[INFO: App       ] ACK alindi: blok 89
+01:24.653	ID:2	[INFO: App       ] DATA gonderiliyor: blok 90/128 (deneme 1)
+01:24.718	ID:1	[INFO: App       ] DATA kabul: blok 90/128 (64 bayt) toplam=5824
+01:24.772	ID:2	[INFO: App       ] ACK alindi: blok 90
+01:24.778	ID:2	[INFO: App       ] DATA gonderiliyor: blok 91/128 (deneme 1)
+01:24.890	ID:1	[INFO: App       ] DATA kabul: blok 91/128 (64 bayt) toplam=5888
+01:24.983	ID:2	[INFO: App       ] ACK alindi: blok 91
+01:24.989	ID:2	[INFO: App       ] DATA gonderiliyor: blok 92/128 (deneme 1)
+01:25.085	ID:1	[INFO: App       ] DATA kabul: blok 92/128 (64 bayt) toplam=5952
+01:25.151	ID:2	[INFO: App       ] ACK alindi: blok 92
+01:25.156	ID:2	[INFO: App       ] DATA gonderiliyor: blok 93/128 (deneme 1)
+01:25.242	ID:1	[INFO: App       ] DATA kabul: blok 93/128 (64 bayt) toplam=6016
+01:25.335	ID:2	[INFO: App       ] ACK alindi: blok 93
+01:25.341	ID:2	[INFO: App       ] DATA gonderiliyor: blok 94/128 (deneme 1)
+01:25.398	ID:1	[INFO: App       ] DATA kabul: blok 94/128 (64 bayt) toplam=6080
+01:25.460	ID:2	[INFO: App       ] ACK alindi: blok 94
+01:25.466	ID:2	[INFO: App       ] DATA gonderiliyor: blok 95/128 (deneme 1)
+01:25.539	ID:1	[INFO: App       ] DATA kabul: blok 95/128 (64 bayt) toplam=6144
+01:25.635	ID:2	[INFO: App       ] ACK alindi: blok 95
+01:25.641	ID:2	[INFO: App       ] DATA gonderiliyor: blok 96/128 (deneme 1)
+01:25.742	ID:1	[INFO: App       ] DATA kabul: blok 96/128 (64 bayt) toplam=6208
+01:25.822	ID:2	[INFO: App       ] ACK alindi: blok 96
+01:25.828	ID:2	[INFO: App       ] DATA gonderiliyor: blok 97/128 (deneme 1)
+01:25.882	ID:1	[INFO: App       ] DATA kabul: blok 97/128 (64 bayt) toplam=6272
+01:25.952	ID:2	[INFO: App       ] ACK alindi: blok 97
+01:25.958	ID:2	[INFO: App       ] DATA gonderiliyor: blok 98/128 (deneme 1)
+01:26.031	ID:1	[INFO: App       ] DATA kabul: blok 98/128 (64 bayt) toplam=6336
+01:26.179	ID:2	[INFO: App       ] ACK alindi: blok 98
+01:26.184	ID:2	[INFO: App       ] DATA gonderiliyor: blok 99/128 (deneme 1)
+01:26.242	ID:1	[INFO: App       ] DATA kabul: blok 99/128 (64 bayt) toplam=6400
+01:26.362	ID:2	[INFO: App       ] ACK alindi: blok 99
+01:26.367	ID:2	[INFO: App       ] DATA gonderiliyor: blok 100/128 (deneme 1)
+01:26.437	ID:1	[INFO: App       ] DATA kabul: blok 100/128 (64 bayt) toplam=6464
+01:26.541	ID:2	[INFO: App       ] ACK alindi: blok 100
+01:26.547	ID:2	[INFO: App       ] DATA gonderiliyor: blok 101/128 (deneme 1)
+01:26.617	ID:1	[INFO: App       ] DATA kabul: blok 101/128 (64 bayt) toplam=6528
+01:26.726	ID:2	[INFO: App       ] ACK alindi: blok 101
+01:26.731	ID:2	[INFO: App       ] DATA gonderiliyor: blok 102/128 (deneme 1)
+01:26.789	ID:1	[INFO: App       ] DATA kabul: blok 102/128 (64 bayt) toplam=6592
+01:26.866	ID:2	[INFO: App       ] ACK alindi: blok 102
+01:26.872	ID:2	[INFO: App       ] DATA gonderiliyor: blok 103/128 (deneme 1)
+01:26.976	ID:1	[INFO: App       ] DATA kabul: blok 103/128 (64 bayt) toplam=6656
+01:27.046	ID:2	[INFO: App       ] ACK alindi: blok 103
+01:27.052	ID:2	[INFO: App       ] DATA gonderiliyor: blok 104/128 (deneme 1)
+01:27.148	ID:1	[INFO: App       ] DATA kabul: blok 104/128 (64 bayt) toplam=6720
+01:27.249	ID:2	[INFO: App       ] ACK alindi: blok 104
+01:27.255	ID:2	[INFO: App       ] DATA gonderiliyor: blok 105/128 (deneme 1)
+01:27.320	ID:1	[INFO: App       ] DATA kabul: blok 105/128 (64 bayt) toplam=6784
+01:27.382	ID:2	[INFO: App       ] ACK alindi: blok 105
+01:27.388	ID:2	[INFO: App       ] DATA gonderiliyor: blok 106/128 (deneme 1)
+01:27.416	ID:1	[INFO: App       ] DATA kabul: blok 106/128 (64 bayt) toplam=6848
+01:27.460	ID:2	[INFO: App       ] ACK alindi: blok 106
+01:27.466	ID:2	[INFO: App       ] DATA gonderiliyor: blok 107/128 (deneme 1)
+01:27.546	ID:1	[INFO: App       ] DATA kabul: blok 107/128 (64 bayt) toplam=6912
+01:27.640	ID:2	[INFO: App       ] ACK alindi: blok 107
+01:27.646	ID:2	[INFO: App       ] DATA gonderiliyor: blok 108/128 (deneme 1)
+01:27.734	ID:1	[INFO: App       ] DATA kabul: blok 108/128 (64 bayt) toplam=6976
+01:27.807	ID:2	[INFO: App       ] ACK alindi: blok 108
+01:27.813	ID:2	[INFO: App       ] DATA gonderiliyor: blok 109/128 (deneme 1)
+01:27.921	ID:1	[INFO: App       ] DATA kabul: blok 109/128 (64 bayt) toplam=7040
+01:27.984	ID:2	[INFO: App       ] ACK alindi: blok 109
+01:27.989	ID:2	[INFO: App       ] DATA gonderiliyor: blok 110/128 (deneme 1)
+01:28.070	ID:1	[INFO: App       ] DATA kabul: blok 110/128 (64 bayt) toplam=7104
+01:28.155	ID:2	[INFO: App       ] ACK alindi: blok 110
+01:28.161	ID:2	[INFO: App       ] DATA gonderiliyor: blok 111/128 (deneme 1)
+01:28.218	ID:1	[INFO: App       ] DATA kabul: blok 111/128 (64 bayt) toplam=7168
+01:28.304	ID:2	[INFO: App       ] ACK alindi: blok 111
+01:28.310	ID:2	[INFO: App       ] DATA gonderiliyor: blok 112/128 (deneme 1)
+01:28.382	ID:1	[INFO: App       ] DATA kabul: blok 112/128 (64 bayt) toplam=7232
+01:28.468	ID:2	[INFO: App       ] ACK alindi: blok 112
+01:28.474	ID:2	[INFO: App       ] DATA gonderiliyor: blok 113/128 (deneme 1)
+01:28.531	ID:1	[INFO: App       ] DATA kabul: blok 113/128 (64 bayt) toplam=7296
+01:28.624	ID:2	[INFO: App       ] ACK alindi: blok 113
+01:28.630	ID:2	[INFO: App       ] DATA gonderiliyor: blok 114/128 (deneme 1)
+01:28.687	ID:1	[INFO: App       ] DATA kabul: blok 114/128 (64 bayt) toplam=7360
+01:28.776	ID:2	[INFO: App       ] ACK alindi: blok 114
+01:28.781	ID:2	[INFO: App       ] DATA gonderiliyor: blok 115/128 (deneme 1)
+01:28.843	ID:1	[INFO: App       ] DATA kabul: blok 115/128 (64 bayt) toplam=7424
+01:28.890	ID:2	[INFO: App       ] ACK alindi: blok 115
+01:28.896	ID:2	[INFO: App       ] DATA gonderiliyor: blok 116/128 (deneme 1)
+01:28.929	ID:1	[INFO: App       ] DATA kabul: blok 116/128 (64 bayt) toplam=7488
+01:28.999	ID:2	[INFO: App       ] ACK alindi: blok 116
+01:29.005	ID:2	[INFO: App       ] DATA gonderiliyor: blok 117/128 (deneme 1)
+01:29.041	ID:1	[INFO: App       ] DATA kabul: blok 117/128 (64 bayt) toplam=7552
+01:29.119	ID:2	[INFO: App       ] ACK alindi: blok 117
+01:29.125	ID:2	[INFO: App       ] DATA gonderiliyor: blok 118/128 (deneme 1)
+01:29.195	ID:1	[INFO: App       ] DATA kabul: blok 118/128 (64 bayt) toplam=7616
+01:29.312	ID:2	[INFO: App       ] ACK alindi: blok 118
+01:29.317	ID:2	[INFO: App       ] DATA gonderiliyor: blok 119/128 (deneme 1)
+01:29.382	ID:1	[INFO: App       ] DATA kabul: blok 119/128 (64 bayt) toplam=7680
+01:29.452	ID:2	[INFO: App       ] ACK alindi: blok 119
+01:29.458	ID:2	[INFO: App       ] DATA gonderiliyor: blok 120/128 (deneme 1)
+01:29.554	ID:1	[INFO: App       ] DATA kabul: blok 120/128 (64 bayt) toplam=7744
+01:29.640	ID:2	[INFO: App       ] ACK alindi: blok 120
+01:29.646	ID:2	[INFO: App       ] DATA gonderiliyor: blok 121/128 (deneme 1)
+01:29.695	ID:1	[INFO: App       ] DATA kabul: blok 121/128 (64 bayt) toplam=7808
+01:29.788	ID:2	[INFO: App       ] ACK alindi: blok 121
+01:29.794	ID:2	[INFO: App       ] DATA gonderiliyor: blok 122/128 (deneme 1)
+01:29.882	ID:1	[INFO: App       ] DATA kabul: blok 122/128 (64 bayt) toplam=7872
+01:29.960	ID:2	[INFO: App       ] ACK alindi: blok 122
+01:29.966	ID:2	[INFO: App       ] DATA gonderiliyor: blok 123/128 (deneme 1)
+01:30.015	ID:1	[INFO: App       ] DATA kabul: blok 123/128 (64 bayt) toplam=7936
+01:30.073	ID:2	[INFO: App       ] ACK alindi: blok 123
+01:30.078	ID:2	[INFO: App       ] DATA gonderiliyor: blok 124/128 (deneme 1)
+01:30.148	ID:1	[INFO: App       ] DATA kabul: blok 124/128 (64 bayt) toplam=8000
+01:30.280	ID:2	[INFO: App       ] ACK alindi: blok 124
+01:30.286	ID:2	[INFO: App       ] DATA gonderiliyor: blok 125/128 (deneme 1)
+01:30.359	ID:1	[INFO: App       ] DATA kabul: blok 125/128 (64 bayt) toplam=8064
+01:30.413	ID:2	[INFO: App       ] ACK alindi: blok 125
+01:30.419	ID:2	[INFO: App       ] DATA gonderiliyor: blok 126/128 (deneme 1)
+01:30.468	ID:1	[INFO: App       ] DATA kabul: blok 126/128 (64 bayt) toplam=8128
+01:30.546	ID:2	[INFO: App       ] ACK alindi: blok 126
+01:30.552	ID:2	[INFO: App       ] DATA gonderiliyor: blok 127/128 (deneme 1)
+01:30.617	ID:1	[INFO: App       ] DATA kabul: blok 127/128 (64 bayt) toplam=8192
+01:30.697	ID:2	[INFO: App       ] ACK alindi: blok 127
+01:30.703	ID:2	[INFO: App       ] Tum bloklar ACK'lendi (128 adet), DONE'a geciyor
+01:30.857	ID:2	[INFO: App       ] DONE gonderiliyor: total_crc32 paketin icinde, COMPLETE bekleniyor
+01:30.938	ID:1	[INFO: App       ] DONE alindi. Beklenen CRC32=0x66b06bea, hesaplanan=0x66b06bea
+01:30.946	ID:1	[INFO: App       ] OTA metadata guncellendi: slot B PENDING durumunda
+01:30.952	ID:1	[INFO: App       ] === Yuklenmeye hazir yeni firmware alimi tamamlandi (boyut=8192) ===
+01:31.064	ID:2	[INFO: App       ] Alici COMPLETE bildirdi: yeni firmware alimi onaylandi
+01:31.070	ID:2	[INFO: App       ] === OTA AKTARIMI BASARILI: 8192 bayt, 128 blok ===

@@ -1,0 +1,6 @@
+build/
+obj_*/
+*.log
+*.o
+*.d
+*.map
