@@ -9,7 +9,7 @@
 
 ## 🎥 Demo Videosu
 
-📺 **Video Linki:** _<!-- BURAYA VİDEO LİNKİNİZİ KOYUN -->_
+📺 **Video Linki:** _https://youtu.be/sazc9Zh2nsM_
 
 Videoda projenin amacı, sistem mimarisi, paket akışı ve Cooja üzerinde uçtan uca başarılı aktarım demo'su anlatılmaktadır.
 
